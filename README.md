@@ -9,7 +9,7 @@
     Django 3.2.5
 
 ### Database
-Create Postgres database called holons
+Create Postgres database called api_db
 ```
 $ psql -U %username% postgres
 # CREATE DATABASE api_db;
